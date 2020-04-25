@@ -1,2 +1,7 @@
 gunicorn
 Flask
+bokeh
+pandas-datareader
+numpy
+pandas
+Werkzeug
